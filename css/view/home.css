@@ -1,0 +1,19 @@
+.banner {
+  height: 500px;
+  width: 100%;
+}
+.banner >div {
+  height: 100%;
+}
+.banner >div .banner-bg {
+  height: 100%;
+}
+.banner >div .banner1 {
+  background: url("../../images/banner1.jpg") no-repeat center;
+}
+.banner >div .banner2 {
+  background: url("../../images/banner2.jpg") no-repeat center;
+}
+.banner >div .banner3 {
+  background: url("../../images/banner3.jpg") no-repeat center;
+}
